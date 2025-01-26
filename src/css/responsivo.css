@@ -36,7 +36,7 @@
 }
 @media(max-width: 375px){
     body{
-    justify-content: :start;
+    justify-content: start;
     padding-top: 10px;
     gap: 10px;
     }
